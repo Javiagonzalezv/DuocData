@@ -1,0 +1,122 @@
+{
+  "usuarios": [
+    {
+      "rut": "12842153-3",
+      "nombre": "juan",
+      "apellido": "perez",
+      "email": "ju.perez@gmail.com",
+      "password": "juan1234",
+      "isactive": true,
+      "id": "973f"
+    },
+    {
+      "rut": "20302105-7",
+      "nombre": "jorge",
+      "apellido": "ramirez",
+      "email": "jor.rami@gmail.com",
+      "password": "jorge001",
+      "isactive": true,
+      "id": "4991"
+    },
+    {
+      "id": "c029",
+      "nombre": "hola",
+      "apellido": "nom",
+      "rut": "12345678-9",
+      "email": "hola.mon@gmail.com",
+      "password": "H12345678",
+      "isactive": true
+    },
+    {
+      "id": "74c3",
+      "nombre": "max",
+      "apellido": "menox",
+      "rut": "12312312-4",
+      "email": "maxmen@gmail.com",
+      "password": "Maxmenox01",
+      "isactive": true
+    },
+    {
+      "id": "c4fb",
+      "nombre": "nom",
+      "apellido": "bre",
+      "rut": "12312312-3",
+      "email": "nombre@gmail.com",
+      "password": "Nombre12",
+      "isactive": true
+    },
+    {
+      "id": "908b",
+      "nombre": "john",
+      "apellido": "smith",
+      "rut": "12887675-6",
+      "email": "john.smith@gmail.com",
+      "password": "JohnSmith1",
+      "isactive": true
+    },
+    {
+      "id": "c4e1",
+      "nombre": null,
+      "apellido": null,
+      "rut": null,
+      "email": null,
+      "password": null,
+      "isactive": true
+    },
+    {
+      "id": "57ef",
+      "nombre": null,
+      "apellido": null,
+      "rut": null,
+      "email": null,
+      "password": null,
+      "isactive": true
+    },
+    {
+      "id": "4d27",
+      "nombre": null,
+      "apellido": null,
+      "rut": null,
+      "email": null,
+      "password": null,
+      "isactive": true
+    }
+  ],
+  "cursos": [
+    {
+      "id": "101",
+      "asignatura": "ingles",
+      "descripcion": "study",
+      "profesor": "pepito",
+      "fecha": "12-09-2024",
+      "inscritos": [
+        "12345678-9",
+        "12312312-4",
+        "12842153-3"
+      ]
+    },
+    {
+      "id": "102",
+      "asignatura": "matematicas",
+      "profesor": "luis",
+      "descripcion": "math",
+      "fecha": "13-09-2024",
+      "inscritos": [
+        "12842153-3",
+        "12312312-4"
+      ]
+    },
+    {
+      "id": "103",
+      "asignatura": "programacion",
+      "profesor": "marcos",
+      "descripcion": "program",
+      "fecha": "1o-09-2024",
+      "inscritos": [
+        "12345678-9",
+        "12312312-4"
+      ]
+    }
+  ],
+  "justificacion": {}
+}
